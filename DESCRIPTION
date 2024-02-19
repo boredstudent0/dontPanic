@@ -1,0 +1,15 @@
+Package: dontPanic
+Type: Package
+Title: Gives the answer to the Ultimate Question
+Version: 0.1.0
+Author: boredstudent0 
+Maintainer: boredstudent0 <bored.student0@proton.me>
+Description: There is a theory which states that if the number 42 appears in your codes and you don't use this package to get it, a bypass will immediately be built through your desk. 
+    There is another theory which states that this isn't true at all, and that the construction of this bypass has been displayed in the local planning office for 9 whole months.
+    ...
+    Got the idea from a python function by tudstlennkozh (Github). The Douglas Adams tribute now has an R extension, though I didn't follow the python script. This function first calculates the generalised Levenshtein distance between the correct sentence and yours. Then a lame calculation of mine is made so that the output can be smaller or greater than The Answer
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
+Imports: utils
