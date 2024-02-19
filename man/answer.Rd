@@ -7,7 +7,7 @@
 answer(str)
 }
 \arguments{
-\item{str}{}
+\item{str}{Mind the wording}
 }
 \value{
 The Answer
