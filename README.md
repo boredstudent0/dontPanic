@@ -15,4 +15,5 @@ Got the idea from a python function by [tudstlennkozh](https://github.com/tudstl
 Here the function first calculate the generalized Levenshtein distance between the correct sentence and yours. Then a lame calculation of mine is made so that the output can be smaller of greater than the Answer.
 
 You'll have to remember the precise wording of the input sentence to get The Answer. No case-sensitive.
+
 More about the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance})
