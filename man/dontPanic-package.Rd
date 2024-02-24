@@ -24,4 +24,12 @@ More about the Levenshtein distance: \url{https://en.wikipedia.org/wiki/Levensht
 boredstudent0
 
 Maintainer: \email{bored.student0@proton.me}
+
+\keywords{
+Douglas Adams
+
+The Hitch-Hiker’s Guide to the Galaxy
+
+H2G2
+}
 }
