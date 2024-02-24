@@ -17,4 +17,3 @@ Here the function first calculate the generalized Levenshtein distance between t
 You'll have to remember the precise wording of the input sentence to get The Answer. No case-sensitive.
 
 More about the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance})
-
