@@ -4,7 +4,7 @@ Title: Gives the answer to the Ultimate Question
 Version: 0.1.0
 Author: boredstudent0 
 Maintainer: boredstudent0 <bored.student0@proton.me>
-Description: A tribute to Douglas Adams. Type help(dontPanic).
+Description: A tribute to Douglas Adams and H2G2. Type help(dontPanic).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
