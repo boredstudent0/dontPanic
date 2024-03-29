@@ -9,7 +9,7 @@
 #' @export
 answer <- function(str){
   distance <- base::attr(utils::adist(x = str,
-                         y ="the Ulimate Question of Life, the Universe,
+                         y ="the Ultimate Question of Life, the Universe,
                          and Everything",
                          ignore.case = TRUE,
                          count = TRUE),"counts")
